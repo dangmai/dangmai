@@ -9,7 +9,7 @@
  
 ##### CURRENT
 
-- 💻 Software Architect at [Sevita Health](https://sevitahealth.com/).
+- 💻 Staff Engineer at [Twilio](https://github.com/twilio).
 - ✍️ Open Source software developer and advocate.
 - 👋 Swing Dancing instructor at [Boston Lindy Hop](https://bostonlindyhop.com/).
 
