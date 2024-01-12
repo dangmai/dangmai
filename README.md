@@ -15,5 +15,5 @@
 
 ##### BIO
 
-- 🇺🇸 Currently based in Boston, Massachusetts.
+- 🇺🇸 Currently based in the Bay Area.
 - 🇻🇳 Originally from Ha Noi, Viet Nam.
