@@ -9,9 +9,8 @@
  
 ##### CURRENT
 
-- 💻 Staff Engineer at [Twilio](https://github.com/twilio).
+- 💻 Principal Engineer at [Twilio](https://github.com/twilio).
 - ✍️ Open Source software developer and advocate.
-- 👋 Swing Dancing instructor at [Boston Lindy Hop](https://bostonlindyhop.com/).
 
 ##### BIO
 
